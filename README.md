@@ -1,2 +1,3 @@
 # GESPRO
 GESPRO RAYOS Y CENTELLAS.
+• Ibai Moya Aroz
