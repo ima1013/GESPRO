@@ -1,26 +1,19 @@
-# GESPRO
-## GESPRO RAYOS Y CENTELLAS.
+# GESPRO - Equipo RAYOS Y CENTELLAS
 
-** - Ibai Moya Aroz (ima1013@alu.ubu.es)**
+## Ibai Moya Aroz
+- **Correo Electrónico:** [ima1013@alu.ubu.es](mailto:ima1013@alu.ubu.es)
+- **Color Favorito:** Vantablack
+- **Tarea:** Diseño de Niveles
 
-  ➔ Color favorito: Vantablack 
-  
-  ➔ Tarea: Diseño de Niveles
-  
+## Ander Akier Ayucar Chasco
+- **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
+- **Color:** Gris
 
-** - Ander Akier Ayucar Chasco (aaa1042@alu.ubu.es)**
+## Diego Lezcano Urbina
+- **Correo Electrónico:** [dlu1001@alu.ubu.es](mailto:dlu1001@alu.ubu.es)
+- **Color:** Amarillo
 
-  ➔ Color: Gris
-  
-
-**- Diego Lezcano Urbina(dlu1001@alu.ubu.es)**
-
-  ➔ Color: Amarillo
-  
-
-**- Adrian Jimenez Garcia (ajg1005@alu.ubu.es)**
-
-  ➔ Color: Azul 
-  
-  ➔ Tarea: Diseño de chat interactivo
-  
+## Adrian Jimenez Garcia
+- **Correo Electrónico:** [ajg1005@alu.ubu.es](mailto:ajg1005@alu.ubu.es)
+- **Color:** Azul
+- **Tarea:** Diseño de chat interactivo
