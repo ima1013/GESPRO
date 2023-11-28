@@ -1,6 +1,6 @@
-# GESPRO
-GESPRO RAYOS Y CENTELLAS.
-• Ibai Moya Aroz (ima1013@alu.ubu.es) Color favorito: Vantablack
-• Ander Akier Ayucar Chasco (aaa1042@alu.ubu.es) Color: Gris
-• Diego Lezcano Urbina(dlu1001@alu.ubu.es) Amarillo 
-• Adrian Jimenez Garcia (ajg1005@alu.ubu.es) azul
+# APLICACION DE ESTUDIO DE IDIOMAS
+**Qué hace el proyecto.**
+El proyecto seria una apliacion que permitiria el estudio de idiomas
+**Por qué el proyecto es útil.**
+Nuestro proyecto seria bastante productivo,ya que en la actualidad es fundamental el estudio de idiomas
+
