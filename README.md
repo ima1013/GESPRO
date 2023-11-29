@@ -1,6 +1,17 @@
-# GESPRO
-GESPRO RAYOS Y CENTELLAS.
-• Ibai Moya Aroz (ima1013@alu.ubu.es)
-• Ander Akier Ayucar Chasco (aaa1042@alu.ubu.es) Color: Gris
-• Diego Lezcano Urbina(dlu1001@alu.ubu.es) Amarillo 
-• Adrian Jimenez Garcia(ajg1005@alu.ubu.es)
+# APLICACION DE ESTUDIO DE IDIOMAS
+
+**Qué hace el proyecto.**
+
+El proyecto seria una aplicación que permitiria el estudio de idiomas.
+
+**Por qué el proyecto es útil.**
+
+Nuestro proyecto seria bastante productivo,ya que en la actualidad es fundamental el aprendizaje de idiomas.
+
+**Cómo pueden comenzar los usuarios con el proyecto.**
+
+Para comenzar los usuarios con la aplicacion tienen un proceso de registro sencillo y un tutorial de Bienvenida.
+
+**Dónde pueden recibir ayuda los usuarios con tu proyecto**
+
+Pueden recibir ayuda mediante los foros y mediante el correo el usuario puede recibir ayuda. 
