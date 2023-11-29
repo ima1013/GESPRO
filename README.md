@@ -1,4 +1,4 @@
-# APLICACION DE ESTUDIO DE IDIOMAS
+# APLICACIÓN DE ESTUDIO DE IDIOMAS
 
 **¿Qué hace el proyecto?**
 
