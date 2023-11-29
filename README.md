@@ -1,6 +1,6 @@
 # APLICACION DE ESTUDIO DE IDIOMAS
 
-**Qué hace el proyecto.*
+**Qué hace el proyecto.**
 
 El proyecto seria una aplicación que permitiria el estudio de idiomas.
 
