@@ -20,3 +20,6 @@ Pueden recibir ayuda mediante los foros y mediante el correo el usuario puede re
 
 El proyecto es mantenido por profesores de idiomas de alta cualificación y la propia comunidad contribuye a 
 agrandar la base de datos de ejercicios.
+
+URL GITHUB: https://github.com/ima1013/GESPRO
+URL JIRA: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2  🌩
