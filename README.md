@@ -1,6 +1,6 @@
 # APLICACION DE ESTUDIO DE IDIOMAS
 
-**Qué hace el proyecto.**
+**Qué hace el proyecto.*
 
 El proyecto seria una aplicación que permitiria el estudio de idiomas.
 
@@ -15,3 +15,6 @@ Para comenzar los usuarios con la aplicacion tienen un proceso de registro senci
 **Dónde pueden recibir ayuda los usuarios con tu proyecto**
 
 Pueden recibir ayuda mediante los foros y mediante el correo el usuario puede recibir ayuda. 
+
+
+
