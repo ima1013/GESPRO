@@ -4,9 +4,9 @@
 
 El proyecto seria una aplicación que permitiria el estudio de idiomas.
 
-**¿Por qué el proyecto es útil.?**
+**¿Por qué el proyecto es útil?**
 
-Nuestro proyecto seria bastante productivo,ya que en la actualidad es fundamental el aprendizaje de idiomas.
+Nuestro proyecto seria bastante productivo, ya que en la actualidad es fundamental el aprendizaje de idiomas.
 
 **¿Cómo pueden comenzar los usuarios con el proyecto?**
 
