@@ -16,3 +16,4 @@
 ## Adrian Jimenez Garcia
 - **Correo Electrónico:** [ajg1005@alu.ubu.es](mailto:ajg1005@alu.ubu.es)
 - **Color:** Azul
+- **Tarea**  Recompensas por objetivos
