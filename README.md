@@ -18,7 +18,7 @@
 - **Sprint 3**
 - **Tarea:** Implementación de la Versión Premium
 - **Tarea:** Salto entre los niveles
-
+- 
 ## Adrian Jimenez Garcia
 - **Correo Electrónico:** [ajg1005@alu.ubu.es](mailto:ajg1005@alu.ubu.es)
 - **Color:** Azul
