@@ -14,7 +14,8 @@
 ## Ander Akier Ayucar Chasco
 - **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
 - **Color:** Gris
-
+- **_Sprint 2_**
+   - **Tarea:** Interfaz de aplicación.
 ## Diego Lezcano Urbina
 - **Correo Electrónico:** [dlu1001@alu.ubu.es](mailto:dlu1001@alu.ubu.es)
 - **Color:** Amarillo
