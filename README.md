@@ -18,6 +18,8 @@
    - **Tarea:** Sistema de competitivo.
 - **_Sprint 2_**
    - **Tarea:** Interfaz de aplicación.
+- **_Sprint 3_**
+   - **Tarea:** Implementar modo para daltónicos, ciegos y sordos.
 ## Diego Lezcano Urbina
 - **Correo Electrónico:** [dlu1001@alu.ubu.es](mailto:dlu1001@alu.ubu.es)
 - **Color:** Amarillo
