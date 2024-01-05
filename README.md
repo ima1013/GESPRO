@@ -14,6 +14,8 @@
 ## Ander Akier Ayucar Chasco
 - **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
 - **Color:** Gris
+- **_Sprint 1_**
+   - **Tarea:** Sistema de competitivo.
 - **_Sprint 2_**
    - **Tarea:** Interfaz de aplicación.
 ## Diego Lezcano Urbina
