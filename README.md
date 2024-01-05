@@ -7,6 +7,7 @@
 - **Tarea:** Diseño de niveles.
 - **Sprint 2**
 - **Tarea:** Tutorial de uso de la aplicación.
+- **Tarea:** Hacer simulaciones de pruebas de nivel reales: B2, C1....
 
 ## Ander Akier Ayucar Chasco
 - **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
