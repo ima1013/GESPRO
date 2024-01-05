@@ -5,6 +5,8 @@
 - **Color Favorito:** Vantablack
 - **Sprint 1**
 - **Tarea:** Diseño de niveles.
+- **Sprint 2**
+- **Tarea:** Tutorial de uso de la aplicación.
 
 ## Ander Akier Ayucar Chasco
 - **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
@@ -20,7 +22,7 @@
 - **Sprint 3**
 - **Tarea:** Implementación de la Versión Premium
 - **Tarea:** Salto entre los niveles
-- 
+ 
 ## Adrian Jimenez Garcia
 - **Correo Electrónico:** [ajg1005@alu.ubu.es](mailto:ajg1005@alu.ubu.es)
 - **Color:** Azul
