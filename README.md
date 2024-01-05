@@ -20,6 +20,8 @@
    - **Tarea:** Interfaz de aplicación.
 - **_Sprint 3_**
    - **Tarea:** Implementar modo para daltónicos, ciegos y sordos.
+   - **Tarea:** Ejercicios de vocabulario.
+
 ## Diego Lezcano Urbina
 - **Correo Electrónico:** [dlu1001@alu.ubu.es](mailto:dlu1001@alu.ubu.es)
 - **Color:** Amarillo
