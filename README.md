@@ -3,6 +3,8 @@
 ## Ibai Moya Aroz
 - **Correo Electrónico:** [ima1013@alu.ubu.es](mailto:ima1013@alu.ubu.es)
 - **Color Favorito:** Vantablack
+- **Sprint 1**
+- **Tarea:** Diseño de niveles.
 
 ## Ander Akier Ayucar Chasco
 - **Correo Electrónico:** [aaa1042@alu.ubu.es](mailto:aaa1042@alu.ubu.es)
