@@ -2,7 +2,15 @@
 
 **URL GITHUB**: https://github.com/ima1013/GESPRO
 
-**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2  
+**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2    
+
+## ¿Quiénes somos?
+
+Somos:
+  - Ander Akier Ayucar Chasco.
+  - Adrián Jiménez García.
+  - Diego Lezcano Urbina.
+  - Ibai Moya Aroz.
 
 ## ¿Qué hace el proyecto?
 
@@ -40,7 +48,3 @@ agrandar la base de datos de ejercicios.
 ![Imagen jira sprint 3](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190103.png)
 
 ![Imagen jira sprint 4](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190123.png)
-
-
-
-
