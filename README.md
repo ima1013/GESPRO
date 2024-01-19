@@ -25,7 +25,14 @@ Pueden recibir ayuda mediante los foros y mediante el correo el usuario puede re
 El proyecto es mantenido por profesores de idiomas de alta cualificación y la propia comunidad contribuye a 
 agrandar la base de datos de ejercicios.
 
+## Imágenes de las tareas del MIRO
+
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image.png)
+
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/rama-AnderAkierAyucarChasco/image2.png)
+
 ## Imágenes del avance del sprint
+
 ![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190014.png)
 
 ![Imagen jira sprint 2](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190047.png)
