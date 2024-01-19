@@ -38,6 +38,6 @@
 - **Color:** Azul
 - **_Sprint 2_**
    - **Tarea:** Recompensas por objetivos.
+   - **Tarea:** Reconocimiento entrada y salida de audio.
 - **_Sprint 3_**
    - **Tarea:** Implementacion de la publicidad.
-     
