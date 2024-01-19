@@ -26,6 +26,9 @@ El proyecto es mantenido por profesores de idiomas de alta cualificación y la p
 agrandar la base de datos de ejercicios.
 
 ## Imágenes del avance del sprint
+
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image.png)
+
 ![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190014.png)
 
 ![Imagen jira sprint 2](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190047.png)
