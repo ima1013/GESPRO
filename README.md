@@ -38,3 +38,6 @@
 - **Color:** Azul
 - **_Sprint 2_**
    - **Tarea:** Recompensas por objetivos.
+- **_Sprint 3_**
+   - **Tarea:** Implementacion de la publicidad.
+     
