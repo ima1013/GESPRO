@@ -2,7 +2,15 @@
 
 **URL GITHUB**: https://github.com/ima1013/GESPRO
 
-**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2  
+**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2    
+
+## ¿Quiénes somos?
+
+Somos:
+  - Ander Akier Ayucar Chasco.
+  - Adrián Jiménez García.
+  - Diego Lezcano Urbina.
+  - Ibai Moya Aroz.
 
 ## ¿Qué hace el proyecto?
 
@@ -27,27 +35,16 @@ agrandar la base de datos de ejercicios.
 
 ## Imágenes de las tareas del MIRO
 
-Imagen 1.
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image.png)
 
-Imagen 2.
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/rama-AnderAkierAyucarChasco/image2.png)
 
 ## Imágenes del avance del sprint
 
-Imagen 3.
 ![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190014.png)
 
-Imagen 4.
 ![Imagen jira sprint 2](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190047.png)
 
-Imagen 5.
 ![Imagen jira sprint 3](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190103.png)
 
-Imagen 6.
 ![Imagen jira sprint 4](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190123.png)
-
-
-
-
-
