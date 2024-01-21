@@ -7,10 +7,10 @@
 ## ¿Quiénes somos?
 
 Somos:
-  - [Ander Akier Ayucar Chasco](mailto:aaa1042@alu.ubu.es).
-  - [Adrián Jiménez García](mailto:ajg1005@alu.ubu.es).
-  - [Diego Lezcano Urbina](mailto:dlu1001@alu.ubu.es).
-  - [Ibai Moya Aroz](mailto:ima1013@alu.ubu.es).
+  - [Ander Akier Ayucar Chasco](mailto:aaa1042@alu.ubu.es)
+  - [Adrián Jiménez García](mailto:ajg1005@alu.ubu.es)
+  - [Diego Lezcano Urbina](mailto:dlu1001@alu.ubu.es)
+  - Ibai Moya Aroz(mailto:ima1013@alu.ubu.es)
 
 ## ¿Qué hace el proyecto?
 
