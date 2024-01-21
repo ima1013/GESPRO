@@ -10,7 +10,7 @@ Somos:
   - Ander Akier Ayucar Chasco ([Correo de Ander](mailto:aaa1042@alu.ubu.es)).
   - Adrián Jiménez García ([Correo de Adrián](mailto:ajg1005@alu.ubu.es)).
   - Diego Lezcano Urbina ([Correo de Diego](mailto:dlu1001@alu.ubu.es)).
-  - Ibai Moya Aroz ([Correo de Ibai](mailto:ima1013@alu.ubu.es)).
+  - Ibai Moya Aroz ([Ibai Moya Aroz](mailto:ima1013@alu.ubu.es)).
 
 ## ¿Qué hace el proyecto?
 
