@@ -34,6 +34,11 @@ El proyecto es mantenido por profesores de idiomas de alta cualificación y la p
 agrandar la base de datos de ejercicios.
 
 ## Imágenes de las tareas del MIRO
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD.png)
+
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD(1).png)
+
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD(2).png)
 
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image.png)
 
