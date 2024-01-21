@@ -1,32 +1,42 @@
 # APLICACIÓN DE ESTUDIO DE IDIOMAS
 
-**URL GITHUB**: https://github.com/ima1013/GESPRO
+[**Clicka aquí para acceder al repositorio de GitHub**](https://github.com/ima1013/GESPRO)
 
-**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2    
+[**Clicka aquí para acceder al tablero JIRA**](https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2)
 
 ## ¿Quiénes somos?
 
 Somos:
-  - Ander Akier Ayucar Chasco.
-  - Adrián Jiménez García.
-  - Diego Lezcano Urbina.
-  - Ibai Moya Aroz.
+  - [Ander Akier Ayucar Chasco](mailto:aaa1042@alu.ubu.es)
+  - [Adrián Jiménez García](mailto:ajg1005@alu.ubu.es)
+  - [Diego Lezcano Urbina](mailto:dlu1001@alu.ubu.es)
+  - [Ibai Moya Aroz](mailto:ima1013@alu.ubu.es)
 
 ## ¿Qué hace el proyecto?
 
-El proyecto seria una aplicación que permitiria el estudio de idiomas.
+El proyecto es una aplicación que permitr el estudio de idiomas mediante las nuevas tecnologías. Ofrece funciones 
+innovadoras y herramientas que hacen que el aprendizaje de un nuevo idioma sea interactivo y eficiente.
+
+Características principales:
+- **Lecciones personalizadas**: La aplicación adapta el contenido según el nivel y las preferencias del usuario.
+- **Práctica mediante vídeos**: Integración de películas, series y vídeos en varios idiomas con su traducción correspondiente.
+- **Seguimiento de progreso**: Estadísticas detalladas para que los usuarios puedan ver su avance y áreas de mejora.
+- **Perfiles de usuario**: Funciones sociales que permiten a los usuarios conectarse entre ellos.
 
 ## ¿Por qué el proyecto es útil?
 
-Nuestro proyecto seria bastante productivo, ya que en la actualidad es fundamental el aprendizaje de idiomas.
+En el mundo actual, el aprendizaje de idiomas se ha vuelto esencial, ya que facilita la comunicación en entornos cada vez 
+más globalizados. 
 
 ## ¿Cómo pueden comenzar los usuarios con el proyecto?
 
-Para comenzar los usuarios con la aplicacion tienen un proceso de registro sencillo y un tutorial de Bienvenida.
+Para comenzar los usuarios con la aplicación tienen un proceso de registro sencillo y un tutorial de bienvenida que les 
+explicará las funciones básicas de la misma antes de comenzar con las lecciones que deseen.
 
 ## ¿Dónde pueden recibir ayuda los usuarios con tu proyecto?
 
-Pueden recibir ayuda mediante los foros y mediante el correo el usuario puede recibir ayuda. 
+Pueden recibir ayuda mediante mediante el correo de asistencia al cliente, o bien, pueden pedir ayuda utilizando los foros
+comunitarios integrados en la aplicación. 
 
 ## ¿Quién mantiene y contribuye con el proyecto?
 
