@@ -1,8 +1,8 @@
 # APLICACIÓN DE ESTUDIO DE IDIOMAS
 
-**URL GITHUB**: https://github.com/ima1013/GESPRO
+[**Clicka aquí para acceder al repositorio de GitHub**](https://github.com/ima1013/GESPRO)
 
-**URL JIRA**: https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2    
+[**Clicka aquí para acceder al tablero JIRA**](https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2)
 
 ## ¿Quiénes somos?
 
@@ -10,7 +10,7 @@ Somos:
   - [Ander Akier Ayucar Chasco](mailto:aaa1042@alu.ubu.es)
   - [Adrián Jiménez García](mailto:ajg1005@alu.ubu.es)
   - [Diego Lezcano Urbina](mailto:dlu1001@alu.ubu.es)
-  - Ibai Moya Aroz(mailto:ima1013@alu.ubu.es)
+  - [Ibai Moya Aroz](mailto:ima1013@alu.ubu.es)
 
 ## ¿Qué hace el proyecto?
 
