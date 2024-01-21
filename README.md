@@ -1,8 +1,10 @@
 # APLICACIÓN DE ESTUDIO DE IDIOMAS
 
-[**Clicka aquí para acceder al repositorio de GitHub**](https://github.com/ima1013/GESPRO)
+[**Clica aquí para acceder al tablero de Miro**](https://miro.com/app/board/uXjVNUnKKi0=/)
 
-[**Clicka aquí para acceder al tablero JIRA**](https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2)
+[**Clica aquí para acceder al repositorio de GitHub**](https://github.com/ima1013/GESPRO)
+
+[**Clica aquí para acceder al tablero JIRA**](https://alu-ajg1005.atlassian.net/jira/software/projects/GES/boards/2)
 
 ## ¿Quiénes somos?
 
@@ -44,22 +46,28 @@ El proyecto es mantenido por profesores de idiomas de alta cualificación y la p
 agrandar la base de datos de ejercicios.
 
 ## Imágenes de las tareas del MIRO
+
+**Elección del proyecto**
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD.png)
 
+**Definición de funciones del proyecto**
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD(1).png)
 
+**Funciones varias explicadas**
 ![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/imageD(2).png)
 
-![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image.png)
-
-![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/rama-AnderAkierAyucarChasco/image2.png)
+![Imagen miro tareas](https://github.com/ima1013/GESPRO/blob/main/image2.png)
 
 ## Imágenes del avance del sprint
 
+**Progreso del primer Sprint**
 ![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190014.png)
 
-![Imagen jira sprint 2](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190047.png)
+**Fechas por grupo de funciones del primer Sprint**
+![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190047.png)
 
-![Imagen jira sprint 3](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190103.png)
+**Incidencias varias del primer Sprint**
+![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190103.png)
 
-![Imagen jira sprint 4](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190123.png)
+**Gráfico de finalización de incidencias del primer Sprint**
+![Imagen jira sprint 1](https://github.com/ima1013/GESPRO/blob/readme_ActualizadoAdrianJImenez/Captura%20de%20pantalla%202024-01-19%20190123.png)
